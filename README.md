@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Swathi
 
 💻 Full Stack Developer  
-🌍 Based in Europe  
+🌍 Based in Germany  
 🚀 Passionate about building scalable web applications  
 
 ## Tech Stack
@@ -9,6 +9,7 @@
 - React / Next.js
 - Node.js / Express
 - Docker / AWS
+- Golang(Go)/Python/Java
 - PostgreSQL
 
 ## Projects
